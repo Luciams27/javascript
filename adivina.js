@@ -30,7 +30,6 @@ document.getElementById("resultado").textContent = frases[numAleatorio];
 
 //para que al darle al botón se recargue la página
 function probarSuerte(){
-    alert("Has pulsado el botón");
     location.reload();
 }
 
